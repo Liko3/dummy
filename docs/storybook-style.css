@@ -1,0 +1,47 @@
+body {
+    background: #F5F5F5;
+    margin: 20px;
+    font-family: 'Lato', sans-serif;
+    color: #162D35;
+}
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 26pt;
+}
+h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 16pt;
+}
+section {
+    margin: 30px;
+}
+article {
+    padding-bottom: 10px;
+}
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    background: #BDE3E3;
+}
+thead {
+    background: #223941;
+    color: #F5F5F5;
+}
+td, th {
+    padding: 10px;
+    border: 1px solid black;
+}
+caption {
+    margin: 20px;
+    text-align: center;
+}
+.table-exercise {
+    background: #69BDBD;
+    font-weight: bold;
+}
+.table-holidays td {
+    background: #F5F5F5;
+    font-weight: lighter;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
